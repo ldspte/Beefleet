@@ -215,3 +215,7 @@ input {
     left: 0px;
     top: -5%;
 }
+
+.butt2:hover{
+    cursor: pointer;
+}
